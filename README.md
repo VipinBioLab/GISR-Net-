@@ -1,4 +1,4 @@
-# GoogLeNet-based Image-to-Scalar Regressor for Quality Assessment of Illumination Correction in Dermatological Macro-Images
+# GISR-Net: An image-to-scalar regressor for quality assessment of illumination correction in dermatological macro-photographs
 
 This repository features a task-specific deep learning model named **GoogLeNet-based Image-to-Scalar Regressor Network (GISR-Net)** for assessing the quality of illumination-corrected macroscopic images. The implementation includes MATLAB codes.
 
